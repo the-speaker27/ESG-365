@@ -634,6 +634,8 @@ It supports:
 - Dashboard counts
 - Approved-data consolidation
 - BRSR summary
+- Local evidence storage
+- Evidence file uploaded
 
 
 It does **not** currently implement:
