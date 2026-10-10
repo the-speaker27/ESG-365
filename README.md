@@ -161,7 +161,11 @@ The current backend provides an approved-data consolidation endpoint for adminis
 
 ---
 
-## 7. BRSR Summary
+## 7. AI Intigration 
+AI will validate the data and give a flag error if there is a mismatch in the evidence and the text of the document.
+AI will consolidate all the data and manage everything and combinly make the BRSR report.
+AI chatbot is there for the easy access and communication.
+## 8. BRSR Summary
 
 The platform provides a BRSR summary endpoint based on the approved data currently supported by the backend.
 
